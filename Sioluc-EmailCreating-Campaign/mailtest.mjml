@@ -1,0 +1,21 @@
+<<mjml>
+    <mj-head>
+        <mj-title>Simple Light Template</mj-title>
+        <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family-Open+Sans"/>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, sans-serif, Helvetica, Arial"/>
+            <mj-text padding="8px 30px" font-weight="400" font-size="15px" color="#2F2F2F" line-height="24px"/>
+            <mj-section padding="0"/>
+            <mj-class name="footer" font-size="13px" color="#A0A0A0" align="center" padding="0px"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-container background-color="#F8F8F8" width="500px">
+            <mj-section>
+                <mj-column width="50%" vertical-align="middle">
+                    <mj-image >
+            </mj-section>
+
+        </mj-container>
+    </mj-body>
+</mjml>
