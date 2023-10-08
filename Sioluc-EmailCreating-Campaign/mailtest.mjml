@@ -37,7 +37,7 @@
         <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
           This is a Test Email
           <br />
-          Due on the 12th of September, 2023
+          Due the 12th of September, 2023
         </mj-text>
         <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" width="600px" alt="" padding="0" href="javascript:;" />
       </mj-column>
@@ -51,21 +51,21 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
-            Croft's in Austin is opening December 20th
+            Bienvenido a Sioluc Academia of English
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Your Journey begins here!
+            ¡Tu camino hacia la proficiencia empieza ahora!
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Thanks for
+            Ahora eres parte de la comunidad Sioluc, en la cual vas a aprender tecnicismos, especificaciones, y cientos de usos del inglés científico aplicado para TU rama de estudio.
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis:
+            Con Sioluc Academica of Enlgish, tendrás acceso a:
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             <ul>
-              <li style="padding-bottom: 20px"><strong>Lorem ipsum dolor:</strong> Sit amet consectetur adipisicing elit.</li>
-              <li style="padding-bottom: 20px"><strong>Quia a assumenda nulla:</strong> Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.</li>
+              <li style="padding-bottom: 20px"><strong>Materiales personalizados:</strong> Para que mejores en lo que tú quieres mejorar</li>
+              <li style="padding-bottom: 20px"><strong>Clases y Webinars con contenido exclusivo:</strong> Con instructores especializados en tu área de investigación/especialización y con invitados especiales que te ayudarán a desarrollarte y enfocarte en lo que tú quieeres rañlejzias}</li>
               <li><strong>Tempora culpa porro labore:</strong> In quisquam optio quibusdam fugiat perspiciatis nobis.</li>
             </ul>
           </mj-text>
