@@ -28,18 +28,18 @@
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="https://s3.tebi.io/sioluc/Screenshot_from_2023-10-10_23-10-41-removebg-preview.png" alt="" align="center" width="250px" />
-        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+        <mj-image src="https://s3.tebi.io/sioluc/Screenshot_from_2023-10-10_23-10-41-removebg-preview.png" alt="" align="center" width="300px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="19px" letter-spacing="1px" padding-top="30px">
           Welcome to the Academia of the World
           <br />
           <span style="color: #979797; font-weight: normal">-</span>
         </mj-text>
-        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
+        <mj-text color="#17CBC4" align="center" font-size="14px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
           Este es un mail de prueba
           <br />
           Debe de ser entregado el 12 de Octubre del 2023
         </mj-text>
-        <mj-image src="https://s3.tebi.io/sioluc/Create%20a%20professional%20email%20banner%20for%20Sioluc%20with%20a%20simple%20design.%20Use%20blue%20and%20white%20colour.gif" width="600px" alt="" padding="0" href="javascript:;" />
+        <mj-image src="https://s3.tebi.io/sioluc/Create%20a%20professional%20email%20banner%20for%20Sioluc%20with%20a%20simple%20design.%20Use%20blue%20and%20white%20colour%20%281%29.gif" width="600px" alt="" padding="0" href="javascript:;" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
