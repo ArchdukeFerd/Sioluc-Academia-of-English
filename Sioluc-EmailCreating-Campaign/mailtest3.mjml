@@ -59,11 +59,8 @@
               <li><strong>Tener una comunidad de ti, para ti:</strong> Preparada por ti, y optimizada para ti.</li>
             </ul>
           </mj-text>
-          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-            Tan solo 4 preguntas te separan de formar parte de la Academia de inglés Técnico más impresionante de Latinoamérica.
-          </mj-text>
           <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://discord.com/" width="300px">
-            Discord
+            Únete a la comunidad de Discord
           </mj-button>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
           </mj-text>

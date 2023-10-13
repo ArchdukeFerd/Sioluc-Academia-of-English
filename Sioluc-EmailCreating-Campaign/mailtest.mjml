@@ -28,7 +28,7 @@
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="https://s3.tebi.io/sioluc/Screenshot_from_2023-10-10_23-10-41-removebg-preview.png" alt="" align="center" width="300px" />
+        <mj-image src="https://s3.tebi.io/sioluc/Create%20a%20professional%20email%20banner%20for%20Sioluc%20with%20a%20simple%20design.%20Use%20blue%20and%20white%20colour%20%281%29.gif" alt="" align="center" width="300px" />
         <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="19px" letter-spacing="1px" padding-top="30px">
           Welcome to the Academia of the World
           <br />
@@ -39,7 +39,7 @@
           <br />
           Debe de ser entregado el 12 de Octubre del 2023
         </mj-text>
-        <mj-image src="https://s3.tebi.io/sioluc/Create%20a%20professional%20email%20banner%20for%20Sioluc%20with%20a%20simple%20design.%20Use%20blue%20and%20white%20colour%20%281%29.gif" width="600px" alt="" padding="0" href="javascript:;" />
+        <!--<mj-image src="https://s3.tebi.io/sioluc/Create%20a%20professional%20email%20banner%20for%20Sioluc%20with%20a%20simple%20design.%20Use%20blue%20and%20white%20colour%20%281%29.gif" width="600px" alt="" padding="0" href="javascript:;" />-->
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -53,22 +53,22 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
-            Bienvenido a Sioluc Academia of Technical English
+            Obtén una promoción exclusiva
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            ¡Tu camino hacia la proficiencia empieza ahora!
           </mj-text>
-          <mj-text color="#637381" font-size="16px">
+          <!--<mj-text color="#637381" font-size="16px">
             Tienes esta magnífica oportunidad para ser parte de la comunidad Sioluc, en la cual podrás aprender tecnicismos, especificaciones, y cientos de usos del inglés científico aplicado para TU rama de estudio.
-          </mj-text>
+          </mj-text>-->
           <mj-text color="#637381" font-size="16px">
-            Con Sioluc Academica of Technical Enlgish, tendrás acceso a:
+            Con Sioluc Academica of Technical English, tendrás acceso a:
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             <ul>
               <li style="padding-bottom: 20px"><strong>Materiales personalizados:</strong> Para que mejores en lo que tú quieres mejorar</li>
-              <li style="padding-bottom: 20px"><strong>Clases y Webinars con contenido exclusivo:</strong> Con instructores especializados en tu área de investigación/especialización y con invitados especiales que te ayudarán a desarrollarte y enfocarte en lo que tú quieres investigar</li>
+              <li style="padding-bottom: 20px"><strong>Clases y Webinars con contenido exclusivo:</strong> Que ya cuentan con el éxito que tú quieres alcanzar.</li>
               <li><strong>Clases en vivo y aterrizadas:</strong> A tu campo de estudio para que deslumbres con tu próxima aportación al mundo académico.</li>
+              <li><strong>Plan de estudio completo:</strong> Aprenderás todo lo que necesitas aprender.
             </ul>
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
