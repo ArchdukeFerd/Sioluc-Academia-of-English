@@ -169,7 +169,7 @@
         <mj-group>
           <mj-column width="100%" padding-right="0">
             <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
-              <a class="footer-link" href="javascript:;">Aviso de Privacidad</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="javascript:;">Desuscribirse</a>
+              <a class="footer-link" href="https://google.com"><a href="[[UNSUB_LINK_EN]]">Aviso de Privacidad</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="https://google.com"><a href="[[UNSUB_LINK_EN]]">Desuscribirse</a>
             </mj-text>
           </mj-column>
         </mj-group>
